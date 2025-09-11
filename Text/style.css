@@ -35,20 +35,14 @@ p {
 
 }
 
-.apple-text{
+  .apple-text {
     margin-bottom: 50px;
     font-size: 14px;
-    background-color: rgb(227,65,64);
+    background-color: rgb(227, 65, 64);
     color: white;
     text-align: center;
-    width: 400px;
-    padding-top: 18px
+    padding-top: 18px;
     padding-bottom: 18px;
-    border-height: 240px;
-    
-    
-
-}
 
 
 .shop-link{
